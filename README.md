@@ -12,7 +12,7 @@ This repository contains three independent React projects, each demonstrating di
 **Features:** Form validation, modern styling, responsive design  
 **Theme:** Black and yellow gradient with glassmorphism effects  
 
-**[📖 View Task 1 Details →](task1/README.md)**
+**[📖 View Task 1 Details →](task1-signup/login/README.md)**
 
 ### 🧭 **Task 2: Navigation Bar**  
 **Location:** `task2/`  
@@ -20,7 +20,7 @@ This repository contains three independent React projects, each demonstrating di
 **Features:** Mobile-first design, smooth animations, interactive elements  
 **Theme:** Black and yellow gradient with modern hover effects  
 
-**[📖 View Task 2 Details →](task2/README.md)**
+**[📖 View Task 2 Details →](task2-navbar/README.md)**
 
 ### 👥 **Task 3: UserCard Component**  
 **Location:** `task3/`  
@@ -28,7 +28,7 @@ This repository contains three independent React projects, each demonstrating di
 **Features:** Avatar support, status indicators, interactive buttons  
 **Theme:** Black and yellow gradient with 3D hover effects  
 
-**[📖 View Task 3 Details →](task3/README.md)**
+**[📖 View Task 3 Details →](task3-Usercards/README.md)**
 
 ## 🎨 **Design System**
 
